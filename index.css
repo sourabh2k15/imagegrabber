@@ -1,0 +1,12 @@
+*{ padding:0;margin:0;box-sizing:border-box;}
+body{
+  font-family: SEGOE UI,Ubuntu,"Open Sans",roboto;
+  font-size: 100%;
+  width:130px;
+}
+.btn{
+  padding:2%;
+  border:2px solid white;
+  border-radius: 2px;
+  cursor: pointer;
+}

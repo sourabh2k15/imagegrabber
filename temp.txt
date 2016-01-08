@@ -1,0 +1,13 @@
+var a = document.createElement('a');
+if(bgs.length>0){
+
+  a.href = bgs[0];
+  a.id = 'download';
+  a.download = '';
+  document.body.appendChild(a);
+  document.getElementById('download').click();
+}else{
+  chrome.runtime.sendMessage({imagelist:JSON.stringify(bgs)},function(response){
+    console.log("extension got message");
+  });
+}

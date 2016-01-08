@@ -1,0 +1,14 @@
+{
+  "manifest_version":2,
+  "name":"hangoutgrab",
+  "description":"This extension will grab all the images currently  being used in the hangouts tab :), cheers !!",
+  "version":"1.0",
+  "browser_action":{
+    "default_icon":"hangouts.png",
+    "default_popup":"index.html"
+  },
+  "permissions":[
+    "activeTab",
+    "tabs"
+  ]
+}
