@@ -23,4 +23,4 @@ click the button wallpaper.get() in the popup<br/> <br/>
 
 #bonus 
  Take a look at my imgur gallery having tons of images I collected using imagegrabber
- [image-gallery](https://imgur.com/share/a/XnHgP)
+ [image-gallery](https://imgur.com/gallery/XnHgP/)
