@@ -1,6 +1,6 @@
 # imagegrabber
 
-A fun little chrome extension that downloads *hangouts* and *bing* wallpapers 
+A fun little chrome extension that downloads *<span style='color:blue;'>hangouts</span>* and *bing* wallpapers 
 
 You can add it to chrome by going to extensions -> load unpacked extension -> choose folder name containing all these files , cheers !
 
